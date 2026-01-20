@@ -53,7 +53,7 @@ The design focuses on **clean edge capture, minimal loading, and robust level tr
 | Input voltage range | 1.2 V – 5.5 V |
 | Logic translation | SN74LXC8T245 |
 | Target logic domain | 3.3 V |
-| Input protection | Series resistors + clamp diode |
+| Input protection | Series resistors |
 | PCB | 2-layer, 0.8 mm |
 | Grounding | Solid planes + stitching vias |
 | Intended bandwidth | 100–200 MHz+ |
