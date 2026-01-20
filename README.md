@@ -9,7 +9,7 @@ The design focuses on **clean edge capture, minimal loading, and robust level tr
 ## Design Goals
 
 - **100–200 MHz+ signal capture**
-- **16–32 simultaneous channels**
+- **24 simultaneous channels**
 - **Wide input voltage range:** **1.2 V to 5.5 V**
 - **Minimal signal loading**
 - **Clean edges and low jitter**
